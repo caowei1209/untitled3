@@ -10,5 +10,9 @@ public class UserController {
         System.out.println("hello git");
         System.out.println("hello git");
         System.out.println("hello git");
+        int a=10;
+        for (int i=0;i<a;i++){
+            System.out.println(i);
+        }
     }
 }
